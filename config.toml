@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
+languageCode = "vi-VN"
+defaultContentLanguage = "vi"
 
 title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
@@ -9,8 +9,8 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
+  editURL = "https://github.com/dinhnguyen/fobiz-manual/edit/master/content/"
+  description = "Hướng dẫn sử dụng hệ thống Fobiz"
   author = "Mathieu Cornic"
   showVisitedLinks = true
   disableBreadcrumb = true
@@ -20,56 +20,28 @@ defaultContentLanguageInSubdir= true
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
-[Languages.en]
+[Languages.vi]
 title = "Documentation for Hugo Learn Theme"
 weight = 1
 languageName = "English"
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Github repo"
-identifier = "ds"
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fas fa-cog'></i> Fobiz admin"
 url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+# url = "showcase"
+# weight = 11
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 20
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
-
-[Languages.fr]
-title = "Documentation du thème Hugo Learn"
-weight = 2
-languageName = "Français"
-
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Repo Github"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
-weight = 10
-
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
-url = "/showcase"
-weight = 11
-
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
-url = "/credits"
-weight = 30
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+# url = "/credits"
+# weight = 30
