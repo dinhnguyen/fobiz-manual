@@ -1,9 +1,6 @@
 ---
-title: Contact assign
+title: Phân contact cho telesale
 weight: 40
 ---
-
-
-# Phân liên hệ
 
 Phân hệ quản lý contact dành cho TLS và MKT

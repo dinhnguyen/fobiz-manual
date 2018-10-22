@@ -23,4 +23,3 @@ Một số khái niệm liên quan đến contact cần chú ý khi sử dụng 
 3. **Đơn hàng** là thông tin được tạo ra khi khách hàng đồng ý mua hàng, sau khi telesale tương tác với khách hàng. Thông tin đơn hàng bao gồm: tên khách hàng, địa chỉ nhận hàng, ghi chú khi gửi hàng, và các thông tin liên quan đến sản phẩm (số lượng, biến thể, giá tiền), thông tin vận chuyển của đơn hàng
 
 4. **Nguồn contact** là nguồn nhận được contact, cần phải xác định để tính được các thông số liên quan đến hiệu quả marketing. Nguồn contact chính trên hệ thống đang là các quảng cáo từ các campaign
-
