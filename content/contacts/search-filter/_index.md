@@ -3,7 +3,7 @@ title: Tìm kiếm contact
 weight: 50
 ---
 
- ![Tìm kiếm contact](search.jpg)
+ ![Tìm kiếm contact ](search.jpg)
 
 Hiện tại hệ thống fobiz hỗ trợ tìm kiếm contact với từ khóa là tên và số điện thoại.
 
