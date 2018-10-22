@@ -1,10 +1,8 @@
 ---
-title: Contact detail
-weight: 5
-chapter: true
+title: Chi tiết contact
+weight: 20
 ---
 
+Tại màn hình này, bạn có thể xem được tất cả các thông tin liên quan đến contact
 
-# Chi tiết contact
-
-Phân hệ quản lý contact dành cho TLS và MKT
+ ![Thông tin chi tiết của contact](contact-detail.jpg)

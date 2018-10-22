@@ -12,7 +12,8 @@ Mọi thắc mắc về sử dụng mọi người có thể liên hệ nguyenng
 
 ## Các chức năng chính
 
-* [Quản lý contact](#)
-* [Quản lý kho](#)
-* [Quản lý đơn hàng](#)
-* [Quản lý chiến dịch marketing](#)
+* [Quản lý contact](/contacts)
+* [Quản lý kho](/warehouse)
+* [Quản lý đơn hàng](/orders)
+* [Quản lý chiến dịch marketing](/marketing)
+* [Quản lý người dùng](/user)

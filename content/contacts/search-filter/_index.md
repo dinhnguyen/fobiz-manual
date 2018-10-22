@@ -1,7 +1,6 @@
 ---
 title: Contact filter
-weight: 4
-chapter: true
+weight: 50
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: Contact stage
-weight: 2
-chapter: true
+weight: 30
 ---
 
 

@@ -8,4 +8,5 @@ chapter: true
 
 # Quản lý contact
 
-Phân hệ quản lý contact dành cho TLS và MKT
+Phân hệ quản lý contact và các thông tin liên quan đến contact dành cho telesales mà marketing.
+![alt text](list-contact.jpg)
