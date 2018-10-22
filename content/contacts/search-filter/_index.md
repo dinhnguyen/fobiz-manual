@@ -5,7 +5,7 @@ weight: 50
 
  ![Tìm kiếm contact ](search.jpg)
 
-Hiện tại hệ thống fobiz hỗ trợ tìm kiếm contact với từ khóa là tên và số điện thoại.
+Hiện tại hệ thống fobiz hỗ trợ tìm kiếm contact với từ khóa là tên và số điện thoại của contact.
 
 Các bộ lọc có thể sử dụng đi kèm với từ khóa để tìm kiếm tốt hơn bao gồm:
 
